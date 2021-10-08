@@ -1,0 +1,13 @@
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.exe
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.deps.json
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.runtimeconfig.json
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.runtimeconfig.dev.json
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.dll
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\bin\Debug\netcoreapp3.1\Ejercicio_Herencia.pdb
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.csproj.AssemblyReference.cache
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.AssemblyInfoInputs.cache
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.AssemblyInfo.cs
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.dll
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.pdb
+C:\Users\Win 10\source\repos\Ejercicio_Herencia\Ejercicio_Herencia\obj\Debug\netcoreapp3.1\Ejercicio_Herencia.genruntimeconfig.cache
